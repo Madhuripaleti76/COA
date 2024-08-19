@@ -1,3 +1,4 @@
+org 100h
 num1 db 25h 
 num2 db 29h 
 
